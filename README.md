@@ -107,7 +107,14 @@ Fork the repo, create a feature branch, and submit a PR.
 
 If you like Ship-AI, don’t forget to star ⭐ the repository!
 
-👤 Author
-
-Kishan
+👤 Author : Kishan
 GitHub: @kishan04122222
+
+<img width="1250" height="496" alt="Screenshot 2026-01-06 at 12 42 13 PM" src="https://github.com/user-attachments/assets/6715ad39-50e0-4e8c-9443-9964c68042f0" />
+
+<img width="1239" height="627" alt="Screenshot 2026-01-06 at 12 43 26 PM" src="https://github.com/user-attachments/assets/a1d0d6d1-a58a-475f-aca7-05595807eda4" />
+
+<img width="1264" height="636" alt="Screenshot 2026-01-06 at 12 42 44 PM" src="https://github.com/user-attachments/assets/550d2407-8f7c-4c75-b5e6-04501d989ab9" />
+
+
+
